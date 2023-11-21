@@ -14,13 +14,6 @@ Y el servicio de UsuarioController para la administración de los usuarios este 
 
 1) https://readcrowsapi.azurewebsites.net/api/Usuario/GetUsuarios, traer la lista de los usuarios creados.
 
-Este recibe los siguientes parámetros:
-
- {
-  "pageNumber": 0,
-  "pageSize": 0
-}
-
 2) https://readcrowsapi.azurewebsites.net/api/Usuario/CreateUser, endPoint para crear los usuarios
 
 Este recibe los siguientes parámetros:
